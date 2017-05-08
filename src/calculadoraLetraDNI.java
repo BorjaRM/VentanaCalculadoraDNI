@@ -14,5 +14,4 @@ public class calculadoraLetraDNI {
 		VentanaLetraDNI ventanaCalculadora = new VentanaLetraDNI();
 		ventanaCalculadora.setVisible(true);
 	}
-
 }

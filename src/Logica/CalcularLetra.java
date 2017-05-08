@@ -20,5 +20,4 @@ public class CalcularLetra {
 	public char devolverLetra(){
 		return this.letra;
 	}
-
 }
