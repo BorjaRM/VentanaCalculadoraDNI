@@ -79,5 +79,6 @@ public class VentanaLetraDNI extends JFrame {
 		horizontalGlue_1 = Box.createHorizontalGlue();
 		horizontalBox.add(horizontalGlue_1);
 	}
+	
 }
 
